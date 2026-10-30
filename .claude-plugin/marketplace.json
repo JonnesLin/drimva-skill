@@ -1,0 +1,17 @@
+{
+  "name": "drimva",
+  "owner": {
+    "name": "JonnesLin",
+    "url": "https://github.com/JonnesLin"
+  },
+  "metadata": {
+    "description": "Drimva's skill for AI agents: search open US jobs and internships and prepare applications."
+  },
+  "plugins": [
+    {
+      "name": "drimva",
+      "source": "./",
+      "description": "Let your AI agent search open US jobs and internships on Drimva, score them against your resume, and prepare your applications."
+    }
+  ]
+}

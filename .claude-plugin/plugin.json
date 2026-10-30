@@ -1,0 +1,13 @@
+{
+  "name": "drimva",
+  "version": "1.0.0",
+  "description": "Let your AI agent search open US jobs and internships on Drimva, score them against your resume, and prepare your applications.",
+  "author": {
+    "name": "JonnesLin",
+    "url": "https://github.com/JonnesLin"
+  },
+  "homepage": "https://drimva.com",
+  "repository": "https://github.com/JonnesLin/drimva-skill",
+  "license": "MIT",
+  "keywords": ["jobs", "job-search", "internships", "resume", "job-applications"]
+}
